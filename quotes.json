@@ -1,0 +1,2918 @@
+{
+  "version": 2,
+  "quotes": [
+    {
+      "id": "marcus-aurelius-001",
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "stoicism"
+      ],
+      "context": "Written in his private philosophical journal while on military campaign along the Danube frontier, during the Marcomannic Wars.",
+      "contextSource": "Meditations, Book 5 (c. 170–180 AD)"
+    },
+    {
+      "id": "marcus-aurelius-002",
+      "text": "Waste no more time arguing about what a good man should be. Be one.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "stoicism",
+        "ambition"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-003",
+      "text": "The soul becomes dyed with the color of its thoughts.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "mindfulness",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-004",
+      "text": "Confine yourself to the present.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "mindfulness",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-005",
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "wisdom",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-006",
+      "text": "It is not death that a man should fear, but he should fear never beginning to live.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "courage",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-007",
+      "text": "Adapt yourself to the things among which your lot has been cast, and love sincerely the fellow creatures with which destiny has ordained that you shall live.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "love",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-008",
+      "text": "If it is not right, do not do it; if it is not true, do not say it.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-009",
+      "text": "Do every act of your life as though it were the very last act of your life.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "mindfulness",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-010",
+      "text": "The best revenge is to be unlike him who performed the injury.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "wisdom",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-011",
+      "text": "Nowhere can a man find a quieter or more untroubled retreat than in his own soul.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "mindfulness",
+        "stoicism"
+      ],
+      "context": "Written while emperor, arguing that the retreat men seek in country houses and seashores is always available within; he composed these notes to himself in Greek while directing wars on the empire's northern border.",
+      "contextSource": "Meditations, Book 4 (c. 170–180 AD)"
+    },
+    {
+      "id": "marcus-aurelius-012",
+      "text": "Loss is nothing else than change, and change is Nature's delight.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "nature",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-013",
+      "text": "Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-014",
+      "text": "That which is not good for the beehive cannot be good for the bee.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-015",
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "nature",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-016",
+      "text": "Think of yourself as dead. You have lived your life. Now take what is left and live it properly.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "stoicism",
+        "courage"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-017",
+      "text": "To accept it without arrogance, to let it go with indifference.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "stoicism"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-018",
+      "text": "The universe is change; our life is what our thoughts make it.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "stoicism",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-019",
+      "text": "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "stoicism",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-020",
+      "text": "Be like the cliff against which the waves continually break, but which stands firm and tames the fury of the water around it.",
+      "author": "Marcus Aurelius",
+      "categories": [
+        "courage",
+        "stoicism"
+      ],
+      "context": "A note to himself on remaining steady amid constant misfortune, written during years marked by plague, war, and court intrigue.",
+      "contextSource": "Meditations, Book 4 (c. 170–180 AD)"
+    },
+    {
+      "id": "seneca-001",
+      "text": "It is not that we have a short time to live, but that we waste much of it.",
+      "author": "Seneca",
+      "categories": [
+        "stoicism",
+        "wisdom"
+      ],
+      "context": "The opening argument of his essay to his father-in-law Paulinus, urging him to retire from public office and reclaim his time for philosophy.",
+      "contextSource": "On the Shortness of Life (De Brevitate Vitae), c. 49 AD"
+    },
+    {
+      "id": "seneca-002",
+      "text": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "categories": [
+        "stoicism",
+        "mindfulness"
+      ],
+      "context": "From a letter counseling his friend Lucilius not to be unhappy before the crisis arrives, since some feared troubles never come at all.",
+      "contextSource": "Letters to Lucilius, Letter 13 (c. 65 AD)"
+    },
+    {
+      "id": "seneca-003",
+      "text": "The greatest remedy for anger is delay.",
+      "author": "Seneca",
+      "categories": [
+        "stoicism",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "seneca-004",
+      "text": "Disaster is virtue's opportunity.",
+      "author": "Seneca",
+      "categories": [
+        "courage",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "seneca-005",
+      "text": "He is most powerful who has power over himself.",
+      "author": "Seneca",
+      "categories": [
+        "stoicism",
+        "ambition"
+      ]
+    },
+    {
+      "id": "seneca-006",
+      "text": "While we are postponing, life speeds by.",
+      "author": "Seneca",
+      "categories": [
+        "stoicism",
+        "ambition"
+      ]
+    },
+    {
+      "id": "seneca-007",
+      "text": "Nothing, to my way of thinking, is a better proof of a well ordered mind than a man's ability to stop just where he is and pass some time in his own company.",
+      "author": "Seneca",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "seneca-008",
+      "text": "If a man knows not to which port he sails, no wind is favorable.",
+      "author": "Seneca",
+      "categories": [
+        "ambition",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "seneca-009",
+      "text": "As long as you live, keep learning how to live.",
+      "author": "Seneca",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "seneca-010",
+      "text": "He suffers more than necessary, who suffers before it is necessary.",
+      "author": "Seneca",
+      "categories": [
+        "stoicism",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "seneca-011",
+      "text": "Wherever there is a human being, there is an opportunity for a kindness.",
+      "author": "Seneca",
+      "categories": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "seneca-012",
+      "text": "The whole future lies in uncertainty: live immediately.",
+      "author": "Seneca",
+      "categories": [
+        "mindfulness",
+        "courage"
+      ]
+    },
+    {
+      "id": "seneca-013",
+      "text": "Life is long if you know how to use it.",
+      "author": "Seneca",
+      "categories": [
+        "wisdom",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "seneca-014",
+      "text": "Associate with people who are likely to improve you.",
+      "author": "Seneca",
+      "categories": [
+        "wisdom",
+        "ambition"
+      ]
+    },
+    {
+      "id": "seneca-015",
+      "text": "Sometimes even to live is an act of courage.",
+      "author": "Seneca",
+      "categories": [
+        "courage"
+      ],
+      "context": "Written to Lucilius on enduring illness; Seneca drew on his own years of near-fatal sickness in youth, when only thoughts of his father kept him from despair.",
+      "contextSource": "Letters to Lucilius, Letter 78 (c. 65 AD)"
+    },
+    {
+      "id": "seneca-016",
+      "text": "It is a rough road that leads to the heights of greatness.",
+      "author": "Seneca",
+      "categories": [
+        "ambition",
+        "courage"
+      ]
+    },
+    {
+      "id": "seneca-017",
+      "text": "Fire is the test of gold; adversity, of strong men.",
+      "author": "Seneca",
+      "categories": [
+        "courage",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "seneca-018",
+      "text": "You act like mortals in all that you fear, and like immortals in all that you desire.",
+      "author": "Seneca",
+      "categories": [
+        "wisdom",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "epictetus-001",
+      "text": "Men are disturbed not by the things which happen, but by the opinions about the things.",
+      "author": "Epictetus",
+      "categories": [
+        "stoicism",
+        "mindfulness"
+      ],
+      "context": "From the handbook of his teachings compiled by his pupil Arrian; Epictetus was born a slave in Hierapolis and taught philosophy after gaining his freedom.",
+      "contextSource": "Enchiridion, Chapter 5 (c. 125 AD)"
+    },
+    {
+      "id": "epictetus-002",
+      "text": "Some things are in our control and others not.",
+      "author": "Epictetus",
+      "categories": [
+        "stoicism"
+      ]
+    },
+    {
+      "id": "epictetus-003",
+      "text": "Wealth consists not in having great possessions, but in having few wants.",
+      "author": "Epictetus",
+      "categories": [
+        "wisdom",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "epictetus-004",
+      "text": "First say to yourself what you would be; and then do what you have to do.",
+      "author": "Epictetus",
+      "categories": [
+        "ambition",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "epictetus-005",
+      "text": "No man is free who is not master of himself.",
+      "author": "Epictetus",
+      "categories": [
+        "stoicism",
+        "courage"
+      ]
+    },
+    {
+      "id": "epictetus-006",
+      "text": "Make the best use of what is in your power, and take the rest as it happens.",
+      "author": "Epictetus",
+      "categories": [
+        "stoicism"
+      ]
+    },
+    {
+      "id": "epictetus-007",
+      "text": "It is impossible for a man to learn what he thinks he already knows.",
+      "author": "Epictetus",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "epictetus-008",
+      "text": "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+      "author": "Epictetus",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "epictetus-009",
+      "text": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
+      "author": "Epictetus",
+      "categories": [
+        "stoicism",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "epictetus-010",
+      "text": "It is difficulties that show what men are.",
+      "author": "Epictetus",
+      "categories": [
+        "courage",
+        "stoicism"
+      ]
+    },
+    {
+      "id": "epictetus-011",
+      "text": "If you want to improve, be content to be thought foolish and stupid.",
+      "author": "Epictetus",
+      "categories": [
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "id": "epictetus-012",
+      "text": "Only the educated are free.",
+      "author": "Epictetus",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "epictetus-013",
+      "text": "Remember that you are an actor in a drama of such sort as the author chooses. Your business is to act well the given part; but to choose it belongs to another.",
+      "author": "Epictetus",
+      "categories": [
+        "stoicism",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "lao-tzu-001",
+      "text": "A journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu",
+      "categories": [
+        "ambition",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "lao-tzu-002",
+      "text": "Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.",
+      "author": "Lao Tzu",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "lao-tzu-003",
+      "text": "A leader is best when people barely know he exists; when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+      "author": "Lao Tzu",
+      "categories": [
+        "ambition",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "lao-tzu-004",
+      "text": "He who knows that enough is enough will always have enough.",
+      "author": "Lao Tzu",
+      "categories": [
+        "mindfulness",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "lao-tzu-005",
+      "text": "Do you have the patience to wait till your mud settles and the water is clear?",
+      "author": "Lao Tzu",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "lao-tzu-006",
+      "text": "Nothing in the world is as soft and yielding as water, yet for dissolving the hard and inflexible, nothing can surpass it.",
+      "author": "Lao Tzu",
+      "categories": [
+        "nature",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "lao-tzu-007",
+      "text": "The sage does not accumulate. The more he does for others, the more he has; the more he gives to others, the greater his abundance.",
+      "author": "Lao Tzu",
+      "categories": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "lao-tzu-008",
+      "text": "A good traveler has no fixed plans and is not intent upon arriving.",
+      "author": "Lao Tzu",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "lao-tzu-009",
+      "text": "The Tao does nothing, yet nothing is left undone.",
+      "author": "Lao Tzu",
+      "categories": [
+        "wisdom",
+        "nature"
+      ]
+    },
+    {
+      "id": "lao-tzu-010",
+      "text": "If you realize that all things change, there is nothing you will try to hold on to.",
+      "author": "Lao Tzu",
+      "categories": [
+        "mindfulness",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "lao-tzu-011",
+      "text": "Because he does not compete, no one in the world can compete with him.",
+      "author": "Lao Tzu",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "lao-tzu-012",
+      "text": "Do the difficult things while they are easy and do the great things while they are small.",
+      "author": "Lao Tzu",
+      "categories": [
+        "ambition",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "lao-tzu-013",
+      "text": "The highest good is like water, which nourishes all things without competing with them.",
+      "author": "Lao Tzu",
+      "categories": [
+        "nature",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "confucius-001",
+      "text": "When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it — this is knowledge.",
+      "author": "Confucius",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "confucius-002",
+      "text": "The superior man is modest in his speech, but exceeds in his actions.",
+      "author": "Confucius",
+      "categories": [
+        "ambition",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "confucius-003",
+      "text": "What you do not want done to yourself, do not do to others.",
+      "author": "Confucius",
+      "categories": [
+        "wisdom",
+        "love"
+      ],
+      "context": "His answer when the disciple Zigong asked for a single word that could guide one's whole life; Confucius offered 'reciprocity' and this explanation.",
+      "contextSource": "Analects, Book 15 (compiled c. 475–221 BC)"
+    },
+    {
+      "id": "confucius-004",
+      "text": "To see what is right and not to do it is want of courage.",
+      "author": "Confucius",
+      "categories": [
+        "courage"
+      ]
+    },
+    {
+      "id": "confucius-005",
+      "text": "Learning without thought is labor lost; thought without learning is perilous.",
+      "author": "Confucius",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "confucius-006",
+      "text": "The cautious seldom err.",
+      "author": "Confucius",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "confucius-007",
+      "text": "When we see men of worth, we should think of equaling them; when we see men of a contrary character, we should turn inwards and examine ourselves.",
+      "author": "Confucius",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "confucius-008",
+      "text": "Hold faithfulness and sincerity as first principles.",
+      "author": "Confucius",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "confucius-009",
+      "text": "The firm, the enduring, the simple, and the modest are near to virtue.",
+      "author": "Confucius",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "confucius-010",
+      "text": "Virtue is not left to stand alone. He who practices it will have neighbors.",
+      "author": "Confucius",
+      "categories": [
+        "wisdom",
+        "love"
+      ]
+    },
+    {
+      "id": "the-buddha-001",
+      "text": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts.",
+      "author": "The Buddha",
+      "categories": [
+        "mindfulness",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "the-buddha-002",
+      "text": "Hatred does not cease by hatred at any time: hatred ceases by love. This is an old rule.",
+      "author": "The Buddha",
+      "categories": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "the-buddha-003",
+      "text": "Better than a thousand hollow words is one word that brings peace.",
+      "author": "The Buddha",
+      "categories": [
+        "mindfulness",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "the-buddha-004",
+      "text": "You yourself must strive. The Buddhas only point the way.",
+      "author": "The Buddha",
+      "categories": [
+        "ambition",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "the-buddha-005",
+      "text": "As a solid rock is not shaken by the wind, so the wise are not moved by praise or blame.",
+      "author": "The Buddha",
+      "categories": [
+        "mindfulness",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "the-buddha-006",
+      "text": "Conquer anger by love. Conquer evil by good. Conquer the stingy by giving. Conquer the liar by truth.",
+      "author": "The Buddha",
+      "categories": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "the-buddha-007",
+      "text": "Irrigators channel the waters; fletchers straighten the arrow; carpenters shape the wood; the wise master themselves.",
+      "author": "The Buddha",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "the-buddha-008",
+      "text": "Though one man conquer a thousand times a thousand men in battle, he who conquers himself is the greatest warrior.",
+      "author": "The Buddha",
+      "categories": [
+        "courage",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "the-buddha-009",
+      "text": "Good is it to control the mind; a controlled mind brings happiness.",
+      "author": "The Buddha",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "the-buddha-010",
+      "text": "If anything is worth doing, do it with all your heart.",
+      "author": "The Buddha",
+      "categories": [
+        "mindfulness"
+      ],
+      "context": "A modern rendering by Eknath Easwaran of a verse from the Dhammapada urging wholehearted effort; a more literal translation reads \"If anything is to be done, let one do it with sustained vigor.\"",
+      "contextSource": "Dhammapada, verse 313 (trans. Eknath Easwaran)"
+    },
+    {
+      "id": "rumi-001",
+      "text": "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there.",
+      "author": "Rumi",
+      "categories": [
+        "love",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "rumi-002",
+      "text": "Sell your cleverness and buy bewilderment.",
+      "author": "Rumi",
+      "categories": [
+        "wisdom",
+        "creativity"
+      ]
+    },
+    {
+      "id": "rumi-003",
+      "text": "What you seek is seeking you.",
+      "author": "Rumi",
+      "categories": [
+        "love",
+        "ambition"
+      ]
+    },
+    {
+      "id": "rumi-004",
+      "text": "Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground.",
+      "author": "Rumi",
+      "categories": [
+        "creativity",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-001",
+      "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "mindfulness",
+        "nature"
+      ],
+      "context": "His explanation for the two years and two months he spent living in a self-built cabin at Walden Pond, on land owned by his friend Emerson, beginning July 4, 1845.",
+      "contextSource": "Walden, 'Where I Lived, and What I Lived For' (1854)"
+    },
+    {
+      "id": "henry-david-thoreau-002",
+      "text": "If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "ambition",
+        "courage"
+      ],
+      "context": "From the conclusion of Walden, summarizing what he learned from his experiment of living alone in the woods.",
+      "contextSource": "Walden, 'Conclusion' (1854)"
+    },
+    {
+      "id": "henry-david-thoreau-003",
+      "text": "Our life is frittered away by detail. Simplify, simplify.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "mindfulness",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-004",
+      "text": "The mass of men lead lives of quiet desperation.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-005",
+      "text": "Heaven is under our feet as well as over our heads.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "nature",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-006",
+      "text": "The question is not what you look at, but what you see.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ],
+      "context": "An entry from the journal he kept for twenty-four years, which ran to over two million words and served as the source for most of his published work.",
+      "contextSource": "Journal, August 5, 1851"
+    },
+    {
+      "id": "henry-david-thoreau-007",
+      "text": "In Wildness is the preservation of the World.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "nature"
+      ],
+      "context": "From a lecture he first delivered in 1851 and continued revising until his death; it was published posthumously and became a founding text of the conservation movement.",
+      "contextSource": "'Walking', The Atlantic Monthly (1862)"
+    },
+    {
+      "id": "henry-david-thoreau-008",
+      "text": "However mean your life is, meet it and live it; do not shun it and call it hard names.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "courage",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-009",
+      "text": "A man is rich in proportion to the number of things which he can afford to let alone.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-010",
+      "text": "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "nature",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-011",
+      "text": "Not till we are lost, in other words not till we have lost the world, do we begin to find ourselves.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-012",
+      "text": "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "ambition",
+        "creativity"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-013",
+      "text": "Things do not change; we change.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-014",
+      "text": "Rather than love, than money, than fame, give me truth.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-015",
+      "text": "I never found the companion that was so companionable as solitude.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-016",
+      "text": "All good things are wild and free.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "id": "henry-david-thoreau-017",
+      "text": "The sun is but a morning star.",
+      "author": "Henry David Thoreau",
+      "categories": [
+        "nature",
+        "ambition"
+      ],
+      "context": "The final sentence of Walden, closing the book on a note of perpetual dawn and possibility.",
+      "contextSource": "Walden, 'Conclusion' (1854)"
+    },
+    {
+      "id": "ralph-waldo-emerson-001",
+      "text": "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "wisdom",
+        "creativity"
+      ],
+      "context": "From his most famous essay, a manifesto against conformity drawn from journal entries and lectures of the 1830s.",
+      "contextSource": "'Self-Reliance', Essays: First Series (1841)"
+    },
+    {
+      "id": "ralph-waldo-emerson-002",
+      "text": "Trust thyself: every heart vibrates to that iron string.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "courage",
+        "ambition"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-003",
+      "text": "Nothing great was ever achieved without enthusiasm.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "ambition"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-004",
+      "text": "Envy is ignorance; imitation is suicide.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "wisdom",
+        "creativity"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-005",
+      "text": "Whoso would be a man, must be a nonconformist.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "courage"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-006",
+      "text": "Nature always wears the colors of the spirit.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-007",
+      "text": "The creation of a thousand forests is in one acorn.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "nature",
+        "ambition"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-008",
+      "text": "Every artist was first an amateur.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "creativity",
+        "ambition"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-009",
+      "text": "Insist on yourself; never imitate.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "creativity",
+        "courage"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-010",
+      "text": "Beauty is its own excuse for being.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "creativity",
+        "nature"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-011",
+      "text": "The years teach much which the days never know.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-012",
+      "text": "Self-trust is the first secret of success.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "ambition"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-013",
+      "text": "Live in the sunshine, swim the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-014",
+      "text": "The earth laughs in flowers.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-015",
+      "text": "Character is higher than intellect.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "ralph-waldo-emerson-016",
+      "text": "Hitch your wagon to a star.",
+      "author": "Ralph Waldo Emerson",
+      "categories": [
+        "ambition"
+      ]
+    },
+    {
+      "id": "walt-whitman-001",
+      "text": "Do I contradict myself? Very well then I contradict myself, (I am large, I contain multitudes.)",
+      "author": "Walt Whitman",
+      "categories": [
+        "creativity",
+        "wisdom"
+      ],
+      "context": "From the long poem at the heart of Leaves of Grass, which Whitman self-published in 1855 and revised throughout his life.",
+      "contextSource": "'Song of Myself', section 51, Leaves of Grass"
+    },
+    {
+      "id": "walt-whitman-002",
+      "text": "Resist much, obey little.",
+      "author": "Walt Whitman",
+      "categories": [
+        "courage"
+      ]
+    },
+    {
+      "id": "walt-whitman-003",
+      "text": "I exist as I am, that is enough.",
+      "author": "Walt Whitman",
+      "categories": [
+        "mindfulness",
+        "courage"
+      ]
+    },
+    {
+      "id": "walt-whitman-004",
+      "text": "Now, Voyager, sail thou forth, to seek and find.",
+      "author": "Walt Whitman",
+      "categories": [
+        "ambition",
+        "courage"
+      ]
+    },
+    {
+      "id": "walt-whitman-005",
+      "text": "Happiness, knowledge, not in another place, but this place — not for another hour, but this hour.",
+      "author": "Walt Whitman",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "walt-whitman-006",
+      "text": "Re-examine all you have been told at school or church or in any book, and dismiss whatever insults your own soul.",
+      "author": "Walt Whitman",
+      "categories": [
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "id": "walt-whitman-007",
+      "text": "That the powerful play goes on, and you may contribute a verse.",
+      "author": "Walt Whitman",
+      "categories": [
+        "creativity",
+        "ambition"
+      ],
+      "context": "The poem's answer to its own despairing question of what good it is to be alive amid faithless crowds and empty years.",
+      "contextSource": "'O Me! O Life!', Leaves of Grass (1867)"
+    },
+    {
+      "id": "walt-whitman-008",
+      "text": "Peace is always beautiful.",
+      "author": "Walt Whitman",
+      "categories": [
+        "mindfulness",
+        "nature"
+      ]
+    },
+    {
+      "id": "walt-whitman-009",
+      "text": "Give me the splendid silent sun, with all his beams full-dazzling.",
+      "author": "Walt Whitman",
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "id": "walt-whitman-010",
+      "text": "The future is no more uncertain than the present.",
+      "author": "Walt Whitman",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "From a meditation on what truly endures — great cities, Whitman argues, rest not on buildings or wealth but on people, for \"nothing endures but personal qualities.\" First published as \"Broad-Axe Poem\" in the 1856 Leaves of Grass.",
+      "contextSource": "Song of the Broad-Axe, Leaves of Grass (1856)"
+    },
+    {
+      "id": "emily-dickinson-001",
+      "text": "Hope is the thing with feathers that perches in the soul, and sings the tune without the words, and never stops at all.",
+      "author": "Emily Dickinson",
+      "categories": [
+        "courage"
+      ],
+      "context": "Written around 1861 and, like nearly all of her almost 1,800 poems, never published in her lifetime; her sister Lavinia discovered them after her death.",
+      "contextSource": "'Hope is the thing with feathers' (c. 1861)"
+    },
+    {
+      "id": "emily-dickinson-002",
+      "text": "Forever is composed of nows.",
+      "author": "Emily Dickinson",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "emily-dickinson-003",
+      "text": "The soul should always stand ajar, ready to welcome the ecstatic experience.",
+      "author": "Emily Dickinson",
+      "categories": [
+        "mindfulness",
+        "creativity"
+      ]
+    },
+    {
+      "id": "emily-dickinson-004",
+      "text": "I dwell in Possibility.",
+      "author": "Emily Dickinson",
+      "categories": [
+        "creativity"
+      ]
+    },
+    {
+      "id": "emily-dickinson-005",
+      "text": "That it will never come again is what makes life so sweet.",
+      "author": "Emily Dickinson",
+      "categories": [
+        "mindfulness",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "emily-dickinson-006",
+      "text": "To live is so startling it leaves little time for anything else.",
+      "author": "Emily Dickinson",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "leo-tolstoy-001",
+      "text": "Everybody thinks of changing humanity, and nobody thinks of changing himself.",
+      "author": "Leo Tolstoy",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "leo-tolstoy-002",
+      "text": "The strongest of all warriors are these two — Time and Patience.",
+      "author": "Leo Tolstoy",
+      "categories": [
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "id": "leo-tolstoy-003",
+      "text": "Spring is the time of plans and projects.",
+      "author": "Leo Tolstoy",
+      "categories": [
+        "nature",
+        "ambition"
+      ]
+    },
+    {
+      "id": "leo-tolstoy-004",
+      "text": "There is no greatness where there is not simplicity, goodness, and truth.",
+      "author": "Leo Tolstoy",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "leo-tolstoy-005",
+      "text": "Love is life. All, everything that I understand, I understand only because I love.",
+      "author": "Leo Tolstoy",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "leo-tolstoy-006",
+      "text": "One can live magnificently in this world, if one knows how to work and how to love, to work for the person one loves and to love one's work.",
+      "author": "Leo Tolstoy",
+      "categories": [
+        "love",
+        "ambition"
+      ],
+      "context": "From a letter the 28-year-old Tolstoy wrote to Valeria Arsenev, to whom he was briefly engaged, laying out his ideal of life.",
+      "contextSource": "Letter to Valeria Arsenev (November 9, 1856)"
+    },
+    {
+      "id": "jane-austen-001",
+      "text": "There is no charm equal to tenderness of heart.",
+      "author": "Jane Austen",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "jane-austen-002",
+      "text": "I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book!",
+      "author": "Jane Austen",
+      "categories": [
+        "wisdom",
+        "creativity"
+      ]
+    },
+    {
+      "id": "jane-austen-003",
+      "text": "You must be the best judge of your own happiness.",
+      "author": "Jane Austen",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "jane-austen-004",
+      "text": "Know your own happiness. You want nothing but patience — or give it a more fascinating name, call it hope.",
+      "author": "Jane Austen",
+      "categories": [
+        "wisdom",
+        "love"
+      ]
+    },
+    {
+      "id": "jane-austen-005",
+      "text": "In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.",
+      "author": "Jane Austen",
+      "categories": [
+        "love"
+      ],
+      "context": "Mr. Darcy's disastrous first proposal to Elizabeth Bennet, in which his declaration of love is undone by his pride.",
+      "contextSource": "Pride and Prejudice, Chapter 34 (1813)"
+    },
+    {
+      "id": "jane-austen-006",
+      "text": "You pierce my soul. I am half agony, half hope. Tell me not that I am too late.",
+      "author": "Jane Austen",
+      "categories": [
+        "love"
+      ],
+      "context": "From Captain Wentworth's letter to Anne Elliot, written eight years after she was persuaded to break off their engagement; Austen's last completed novel.",
+      "contextSource": "Persuasion, Chapter 23 (1817)"
+    },
+    {
+      "id": "jane-austen-007",
+      "text": "Till this moment I never knew myself.",
+      "author": "Jane Austen",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "oscar-wilde-001",
+      "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "id": "oscar-wilde-002",
+      "text": "We are all in the gutter, but some of us are looking at the stars.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "ambition",
+        "creativity"
+      ]
+    },
+    {
+      "id": "oscar-wilde-003",
+      "text": "The truth is rarely pure and never simple.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "oscar-wilde-004",
+      "text": "Experience is simply the name we give our mistakes.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "oscar-wilde-005",
+      "text": "Every saint has a past, and every sinner has a future.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "oscar-wilde-006",
+      "text": "The books that the world calls immoral are books that show the world its own shame.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "creativity",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "oscar-wilde-007",
+      "text": "Yes: I am a dreamer. For a dreamer is one who can only find his way by moonlight, and his punishment is that he sees the dawn before the rest of the world.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "creativity",
+        "ambition"
+      ]
+    },
+    {
+      "id": "oscar-wilde-008",
+      "text": "Art is the most intense mode of individualism that the world has known.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "creativity"
+      ]
+    },
+    {
+      "id": "oscar-wilde-009",
+      "text": "Hearts are made to be broken.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "love"
+      ],
+      "context": "From the long letter Wilde wrote to Lord Alfred Douglas during his imprisonment in Reading Gaol, published after his death.",
+      "contextSource": "De Profundis (written 1897)"
+    },
+    {
+      "id": "oscar-wilde-010",
+      "text": "The aim of life is self-development. To realize one's nature perfectly — that is what each of us is here for.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "ambition",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "oscar-wilde-011",
+      "text": "Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.",
+      "author": "Oscar Wilde",
+      "categories": [
+        "wisdom",
+        "creativity"
+      ]
+    },
+    {
+      "id": "friedrich-nietzsche-001",
+      "text": "He who has a why to live for can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "courage",
+        "wisdom"
+      ],
+      "context": "One of the aphorisms from his late 'Maxims and Arrows'; Viktor Frankl later made the line famous by quoting it to fellow prisoners in the concentration camps.",
+      "contextSource": "Twilight of the Idols, 'Maxims and Arrows' 12 (1888)"
+    },
+    {
+      "id": "friedrich-nietzsche-002",
+      "text": "What does not kill me makes me stronger.",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "courage"
+      ]
+    },
+    {
+      "id": "friedrich-nietzsche-003",
+      "text": "One must still have chaos in oneself to be able to give birth to a dancing star.",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "creativity"
+      ],
+      "context": "From Zarathustra's prologue, addressed to a crowd he warns is losing the inner turbulence from which anything new is born.",
+      "contextSource": "Thus Spoke Zarathustra, Prologue (1883)"
+    },
+    {
+      "id": "friedrich-nietzsche-004",
+      "text": "He who would learn to fly one day must first learn to stand and walk and run and climb and dance; one cannot fly into flying.",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "ambition",
+        "courage"
+      ]
+    },
+    {
+      "id": "friedrich-nietzsche-005",
+      "text": "The higher we soar, the smaller we appear to those who cannot fly.",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "ambition"
+      ]
+    },
+    {
+      "id": "friedrich-nietzsche-006",
+      "text": "Without music, life would be a mistake.",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "creativity"
+      ]
+    },
+    {
+      "id": "friedrich-nietzsche-007",
+      "text": "In every real man a child is hidden that wants to play.",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "creativity",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "friedrich-nietzsche-008",
+      "text": "You shall become the person you are.",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "ambition",
+        "courage"
+      ]
+    },
+    {
+      "id": "friedrich-nietzsche-009",
+      "text": "He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you.",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "id": "friedrich-nietzsche-010",
+      "text": "And let that day be lost to us on which we have not danced once!",
+      "author": "Friedrich Nietzsche",
+      "categories": [
+        "creativity",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "soren-kierkegaard-001",
+      "text": "Life can only be understood backwards; but it must be lived forwards.",
+      "author": "Søren Kierkegaard",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "A private journal entry from 1843, the year he published Either/Or and Fear and Trembling in an astonishing burst of productivity.",
+      "contextSource": "Journals, IV A 164 (1843)"
+    },
+    {
+      "id": "soren-kierkegaard-002",
+      "text": "Anxiety is the dizziness of freedom.",
+      "author": "Søren Kierkegaard",
+      "categories": [
+        "courage",
+        "wisdom"
+      ],
+      "context": "His analysis of the vertigo felt when a person looks down into their own boundless possibility, published under the pseudonym Vigilius Haufniensis.",
+      "contextSource": "The Concept of Anxiety (1844)"
+    },
+    {
+      "id": "soren-kierkegaard-003",
+      "text": "Purity of heart is to will one thing.",
+      "author": "Søren Kierkegaard",
+      "categories": [
+        "mindfulness",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "soren-kierkegaard-004",
+      "text": "The greatest hazard of all, losing one's self, can occur very quietly in the world, as if it were nothing at all.",
+      "author": "Søren Kierkegaard",
+      "categories": [
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "id": "michel-de-montaigne-001",
+      "text": "The greatest thing in the world is to know how to belong to oneself.",
+      "author": "Michel de Montaigne",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ],
+      "context": "Written after Montaigne retired at thirty-eight to the tower library of his family estate, where he invented the personal essay.",
+      "contextSource": "Essays, 'Of Solitude' (1580)"
+    },
+    {
+      "id": "michel-de-montaigne-002",
+      "text": "He who fears he shall suffer, already suffers what he fears.",
+      "author": "Michel de Montaigne",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "michel-de-montaigne-003",
+      "text": "On the highest throne in the world, we still sit only on our own bottom.",
+      "author": "Michel de Montaigne",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "michel-de-montaigne-004",
+      "text": "The most certain sign of wisdom is cheerfulness.",
+      "author": "Michel de Montaigne",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "michel-de-montaigne-005",
+      "text": "Not being able to govern events, I govern myself.",
+      "author": "Michel de Montaigne",
+      "categories": [
+        "stoicism",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "michel-de-montaigne-006",
+      "text": "I quote others only in order the better to express myself.",
+      "author": "Michel de Montaigne",
+      "categories": [
+        "creativity"
+      ]
+    },
+    {
+      "id": "michel-de-montaigne-007",
+      "text": "The value of life lies not in the length of days, but in the use we make of them.",
+      "author": "Michel de Montaigne",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "blaise-pascal-001",
+      "text": "The heart has its reasons which reason knows nothing of.",
+      "author": "Blaise Pascal",
+      "categories": [
+        "love",
+        "wisdom"
+      ],
+      "context": "From the notes toward a defense of Christianity that Pascal left unfinished at his death, published posthumously as the Pensées.",
+      "contextSource": "Pensées, fragment 277 (published 1670)"
+    },
+    {
+      "id": "blaise-pascal-002",
+      "text": "All of humanity's problems stem from man's inability to sit quietly in a room alone.",
+      "author": "Blaise Pascal",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "blaise-pascal-003",
+      "text": "Man is but a reed, the most feeble thing in nature; but he is a thinking reed.",
+      "author": "Blaise Pascal",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "matsuo-basho-001",
+      "text": "Do not seek to follow in the footsteps of the wise; seek what they sought.",
+      "author": "Matsuo Basho",
+      "categories": [
+        "wisdom",
+        "creativity"
+      ]
+    },
+    {
+      "id": "matsuo-basho-002",
+      "text": "Every day is a journey, and the journey itself is home.",
+      "author": "Matsuo Basho",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "matsuo-basho-003",
+      "text": "The temple bell stops but the sound keeps coming out of the flowers.",
+      "author": "Matsuo Basho",
+      "categories": [
+        "nature",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "aristotle-001",
+      "text": "For the things we have to learn before we can do them, we learn by doing them.",
+      "author": "Aristotle",
+      "categories": [
+        "wisdom",
+        "ambition"
+      ]
+    },
+    {
+      "id": "aristotle-002",
+      "text": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "aristotle-003",
+      "text": "The roots of education are bitter, but the fruit is sweet.",
+      "author": "Aristotle",
+      "categories": [
+        "wisdom",
+        "ambition"
+      ]
+    },
+    {
+      "id": "aristotle-004",
+      "text": "Without friends, no one would choose to live, though he had all other goods.",
+      "author": "Aristotle",
+      "categories": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "socrates-001",
+      "text": "The unexamined life is not worth living.",
+      "author": "Socrates",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "Spoken at his trial in Athens in 399 BC, explaining why he would rather die than give up questioning; he was condemned and drank the hemlock.",
+      "contextSource": "Plato, Apology 38a"
+    },
+    {
+      "id": "plato-001",
+      "text": "The beginning is the most important part of the work.",
+      "author": "Plato",
+      "categories": [
+        "ambition",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "plato-002",
+      "text": "Philosophy begins in wonder.",
+      "author": "Plato",
+      "categories": [
+        "wisdom",
+        "creativity"
+      ]
+    },
+    {
+      "id": "heraclitus-001",
+      "text": "No man ever steps in the same river twice, for it is not the same river and he is not the same man.",
+      "author": "Heraclitus",
+      "categories": [
+        "nature",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "heraclitus-002",
+      "text": "Character is destiny.",
+      "author": "Heraclitus",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "heraclitus-003",
+      "text": "Nature loves to hide.",
+      "author": "Heraclitus",
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "id": "heraclitus-004",
+      "text": "The sun is new each day.",
+      "author": "Heraclitus",
+      "categories": [
+        "nature",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "leonardo-da-vinci-001",
+      "text": "Iron rusts from disuse; stagnant water loses its purity and in cold weather becomes frozen; even so does inaction sap the vigor of the mind.",
+      "author": "Leonardo da Vinci",
+      "categories": [
+        "ambition",
+        "creativity"
+      ]
+    },
+    {
+      "id": "leonardo-da-vinci-002",
+      "text": "Obstacles cannot crush me; every obstacle yields to stern resolve. He who is fixed to a star does not change his mind.",
+      "author": "Leonardo da Vinci",
+      "categories": [
+        "courage",
+        "ambition"
+      ],
+      "context": "A motto he wrote in his private notebooks, thousands of pages of mirror-script observations on art, engineering, and nature.",
+      "contextSource": "Notebooks, Codex Atlanticus (c. 1490s)"
+    },
+    {
+      "id": "leonardo-da-vinci-003",
+      "text": "The noblest pleasure is the joy of understanding.",
+      "author": "Leonardo da Vinci",
+      "categories": [
+        "wisdom",
+        "creativity"
+      ]
+    },
+    {
+      "id": "vincent-van-gogh-001",
+      "text": "What would life be if we had no courage to attempt anything?",
+      "author": "Vincent van Gogh",
+      "categories": [
+        "courage",
+        "creativity"
+      ],
+      "context": "Written to his brother Theo shortly after Vincent, at twenty-eight, had committed himself to becoming an artist after failing at every other career.",
+      "contextSource": "Letter to Theo van Gogh (December 1881)"
+    },
+    {
+      "id": "vincent-van-gogh-002",
+      "text": "If you hear a voice within you say 'you cannot paint,' then by all means paint, and that voice will be silenced.",
+      "author": "Vincent van Gogh",
+      "categories": [
+        "creativity",
+        "courage"
+      ],
+      "context": "From a letter to Theo written in Drenthe, during the years when Vincent was teaching himself to paint in poverty and isolation.",
+      "contextSource": "Letter to Theo van Gogh (October 1883)"
+    },
+    {
+      "id": "vincent-van-gogh-003",
+      "text": "I am seeking, I am striving, I am in it with all my heart.",
+      "author": "Vincent van Gogh",
+      "categories": [
+        "ambition",
+        "creativity"
+      ]
+    },
+    {
+      "id": "vincent-van-gogh-004",
+      "text": "There is nothing more truly artistic than to love people.",
+      "author": "Vincent van Gogh",
+      "categories": [
+        "love",
+        "creativity"
+      ],
+      "context": "Written from Arles during the feverishly productive year that produced the Sunflowers and hundreds of other canvases.",
+      "contextSource": "Letter to Theo van Gogh (September 1888)"
+    },
+    {
+      "id": "vincent-van-gogh-005",
+      "text": "Great things are done by a series of small things brought together.",
+      "author": "Vincent van Gogh",
+      "categories": [
+        "ambition",
+        "creativity"
+      ]
+    },
+    {
+      "id": "vincent-van-gogh-006",
+      "text": "It is good to love many things, for therein lies the true strength; whosoever loves much performs much, and can accomplish much, and what is done in love is well done.",
+      "author": "Vincent van Gogh",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "william-shakespeare-001",
+      "text": "This above all: to thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man.",
+      "author": "William Shakespeare",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "Polonius's parting advice to his son Laertes as he leaves for France.",
+      "contextSource": "Hamlet, Act I, Scene 3 (c. 1600)"
+    },
+    {
+      "id": "william-shakespeare-002",
+      "text": "Cowards die many times before their deaths; the valiant never taste of death but once.",
+      "author": "William Shakespeare",
+      "categories": [
+        "courage"
+      ]
+    },
+    {
+      "id": "william-shakespeare-003",
+      "text": "Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.",
+      "author": "William Shakespeare",
+      "categories": [
+        "courage",
+        "ambition"
+      ]
+    },
+    {
+      "id": "william-shakespeare-004",
+      "text": "Love looks not with the eyes, but with the mind, and therefore is winged Cupid painted blind.",
+      "author": "William Shakespeare",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "william-shakespeare-005",
+      "text": "Doubt thou the stars are fire; doubt that the sun doth move; doubt truth to be a liar; but never doubt I love.",
+      "author": "William Shakespeare",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "william-shakespeare-006",
+      "text": "There is nothing either good or bad, but thinking makes it so.",
+      "author": "William Shakespeare",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "william-shakespeare-007",
+      "text": "The fool doth think he is wise, but the wise man knows himself to be a fool.",
+      "author": "William Shakespeare",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "william-shakespeare-008",
+      "text": "Love all, trust a few, do wrong to none.",
+      "author": "William Shakespeare",
+      "categories": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "william-shakespeare-009",
+      "text": "Sweet are the uses of adversity.",
+      "author": "William Shakespeare",
+      "categories": [
+        "courage",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "william-shakespeare-010",
+      "text": "Wisely and slow; they stumble that run fast.",
+      "author": "William Shakespeare",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "william-shakespeare-011",
+      "text": "How far that little candle throws his beams! So shines a good deed in a naughty world.",
+      "author": "William Shakespeare",
+      "categories": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "benjamin-franklin-001",
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin",
+      "categories": [
+        "ambition"
+      ]
+    },
+    {
+      "id": "benjamin-franklin-002",
+      "text": "Lost time is never found again.",
+      "author": "Benjamin Franklin",
+      "categories": [
+        "wisdom",
+        "ambition"
+      ]
+    },
+    {
+      "id": "benjamin-franklin-003",
+      "text": "Little strokes fell great oaks.",
+      "author": "Benjamin Franklin",
+      "categories": [
+        "ambition"
+      ]
+    },
+    {
+      "id": "benjamin-franklin-004",
+      "text": "Early to bed and early to rise, makes a man healthy, wealthy, and wise.",
+      "author": "Benjamin Franklin",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "benjamin-franklin-005",
+      "text": "He that can have patience can have what he will.",
+      "author": "Benjamin Franklin",
+      "categories": [
+        "wisdom",
+        "ambition"
+      ]
+    },
+    {
+      "id": "benjamin-franklin-006",
+      "text": "Hide not your talents, they for use were made. What's a sundial in the shade?",
+      "author": "Benjamin Franklin",
+      "categories": [
+        "ambition",
+        "creativity"
+      ]
+    },
+    {
+      "id": "kahlil-gibran-001",
+      "text": "Work is love made visible.",
+      "author": "Kahlil Gibran",
+      "categories": [
+        "love",
+        "ambition"
+      ],
+      "context": "From the chapter 'On Work' in his book of prose poetry, in which the prophet Almustafa answers the questions of the people of Orphalese.",
+      "contextSource": "The Prophet (1923)"
+    },
+    {
+      "id": "kahlil-gibran-002",
+      "text": "Let there be spaces in your togetherness, and let the winds of the heavens dance between you.",
+      "author": "Kahlil Gibran",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "kahlil-gibran-003",
+      "text": "Your pain is the breaking of the shell that encloses your understanding.",
+      "author": "Kahlil Gibran",
+      "categories": [
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "id": "kahlil-gibran-004",
+      "text": "Love gives naught but itself and takes naught but from itself. Love possesses not nor would it be possessed; for love is sufficient unto love.",
+      "author": "Kahlil Gibran",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "kahlil-gibran-005",
+      "text": "Yesterday is but today's memory, and tomorrow is today's dream.",
+      "author": "Kahlil Gibran",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "kahlil-gibran-006",
+      "text": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+      "author": "Kahlil Gibran",
+      "categories": [
+        "courage"
+      ]
+    },
+    {
+      "id": "cicero-001",
+      "text": "If you have a garden and a library, you have everything you need.",
+      "author": "Cicero",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "From a short letter to the scholar Varro, written as Cicero withdrew from politics under Caesar's dictatorship to console himself with books.",
+      "contextSource": "Letters to Friends (Ad Familiares) 9.4 (46 BC)"
+    },
+    {
+      "id": "cicero-002",
+      "text": "Gratitude is not only the greatest of virtues, but the parent of all the others.",
+      "author": "Cicero",
+      "categories": [
+        "wisdom",
+        "love"
+      ]
+    },
+    {
+      "id": "cicero-003",
+      "text": "While there's life, there's hope.",
+      "author": "Cicero",
+      "categories": [
+        "courage",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "cicero-004",
+      "text": "The life of the dead is placed in the memory of the living.",
+      "author": "Cicero",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "epicurus-001",
+      "text": "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.",
+      "author": "Epicurus",
+      "categories": [
+        "mindfulness",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "epicurus-002",
+      "text": "Nothing is enough for the man to whom enough is too little.",
+      "author": "Epicurus",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "epicurus-003",
+      "text": "It is not so much our friends' help that helps us, as the confidence of their help.",
+      "author": "Epicurus",
+      "categories": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "zhuangzi-001",
+      "text": "Flow with whatever may happen, and let your mind be free: stay centered by accepting whatever you are doing. This is the ultimate.",
+      "author": "Zhuangzi",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "zhuangzi-002",
+      "text": "A path is made by walking on it.",
+      "author": "Zhuangzi",
+      "categories": [
+        "wisdom",
+        "ambition"
+      ]
+    },
+    {
+      "id": "sun-tzu-001",
+      "text": "The supreme art of war is to subdue the enemy without fighting.",
+      "author": "Sun Tzu",
+      "categories": [
+        "wisdom",
+        "ambition"
+      ]
+    },
+    {
+      "id": "sun-tzu-002",
+      "text": "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.",
+      "author": "Sun Tzu",
+      "categories": [
+        "ambition",
+        "courage"
+      ]
+    },
+    {
+      "id": "virgil-001",
+      "text": "Fortune favors the bold.",
+      "author": "Virgil",
+      "categories": [
+        "courage"
+      ],
+      "context": "From the Latin 'audentes fortuna iuvat', spoken by the warrior Turnus as he rallies his men in Virgil's epic of Rome's founding.",
+      "contextSource": "Aeneid, Book 10 (19 BC)"
+    },
+    {
+      "id": "virgil-002",
+      "text": "Love conquers all; let us too surrender to Love.",
+      "author": "Virgil",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "ovid-001",
+      "text": "Dripping water hollows out stone, not through force but through persistence.",
+      "author": "Ovid",
+      "categories": [
+        "ambition"
+      ]
+    },
+    {
+      "id": "ovid-002",
+      "text": "Be patient and tough; someday this pain will be useful to you.",
+      "author": "Ovid",
+      "categories": [
+        "courage"
+      ]
+    },
+    {
+      "id": "john-muir-001",
+      "text": "The mountains are calling and I must go.",
+      "author": "John Muir",
+      "categories": [
+        "nature"
+      ],
+      "context": "From a letter to his sister Sarah, written from California as Muir was studying the glaciers of the Sierra Nevada.",
+      "contextSource": "Letter to Sarah Muir Galloway (September 3, 1873)"
+    },
+    {
+      "id": "john-muir-002",
+      "text": "When we try to pick out anything by itself, we find it hitched to everything else in the Universe.",
+      "author": "John Muir",
+      "categories": [
+        "nature",
+        "wisdom"
+      ],
+      "context": "From the journal of his first summer herding sheep in the Sierra Nevada in 1869, published four decades later.",
+      "contextSource": "My First Summer in the Sierra (1911)"
+    },
+    {
+      "id": "john-muir-003",
+      "text": "In every walk with nature one receives far more than he seeks.",
+      "author": "John Muir",
+      "categories": [
+        "nature",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "john-muir-004",
+      "text": "The clearest way into the Universe is through a forest wilderness.",
+      "author": "John Muir",
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "id": "helen-keller-001",
+      "text": "Life is either a daring adventure, or nothing.",
+      "author": "Helen Keller",
+      "categories": [
+        "courage"
+      ],
+      "context": "Written by Keller, deaf and blind from infancy, in a wartime book urging faith over the illusion of security, which she called a superstition.",
+      "contextSource": "Let Us Have Faith (1940)"
+    },
+    {
+      "id": "helen-keller-002",
+      "text": "The best and most beautiful things in the world cannot be seen nor touched, but are felt in the heart.",
+      "author": "Helen Keller",
+      "categories": [
+        "love",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "helen-keller-003",
+      "text": "Optimism is the faith that leads to achievement; nothing can be done without hope.",
+      "author": "Helen Keller",
+      "categories": [
+        "courage",
+        "ambition"
+      ],
+      "context": "The opening line of an essay on optimism Keller wrote in 1903 while a student at Radcliffe College, the year before she became the first deafblind person to earn a bachelor of arts degree.",
+      "contextSource": "Optimism: An Essay (1903)"
+    },
+    {
+      "id": "frederick-douglass-001",
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass",
+      "categories": [
+        "courage",
+        "ambition"
+      ],
+      "context": "From a speech on West India Emancipation delivered in Canandaigua, New York, in which Douglass, who had escaped slavery, argued that power concedes nothing without a demand.",
+      "contextSource": "West India Emancipation speech (August 3, 1857)"
+    },
+    {
+      "id": "frederick-douglass-002",
+      "text": "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.",
+      "author": "Frederick Douglass",
+      "categories": [
+        "courage",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "theodore-roosevelt-001",
+      "text": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena.",
+      "author": "Theodore Roosevelt",
+      "categories": [
+        "courage",
+        "ambition"
+      ],
+      "context": "From the 'Man in the Arena' passage of a speech delivered at the Sorbonne in Paris, a year after Roosevelt left the presidency.",
+      "contextSource": "'Citizenship in a Republic', Paris (April 23, 1910)"
+    },
+    {
+      "id": "theodore-roosevelt-002",
+      "text": "Far and away the best prize that life offers is the chance to work hard at work worth doing.",
+      "author": "Theodore Roosevelt",
+      "categories": [
+        "ambition"
+      ]
+    },
+    {
+      "id": "amelia-earhart-001",
+      "text": "Courage is the price that life exacts for granting peace.",
+      "author": "Amelia Earhart",
+      "categories": [
+        "courage"
+      ],
+      "context": "The opening line of a poem Earhart wrote in 1927, the year before she became the first woman to fly across the Atlantic.",
+      "contextSource": "'Courage' (poem, 1927)"
+    },
+    {
+      "id": "johann-wolfgang-von-goethe-001",
+      "text": "One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and, if it were possible, to speak a few reasonable words.",
+      "author": "Johann Wolfgang von Goethe",
+      "categories": [
+        "creativity",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "johann-wolfgang-von-goethe-002",
+      "text": "Doubt grows with knowledge.",
+      "author": "Johann Wolfgang von Goethe",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "alfred-lord-tennyson-001",
+      "text": "'Tis better to have loved and lost than never to have loved at all.",
+      "author": "Alfred, Lord Tennyson",
+      "categories": [
+        "love"
+      ],
+      "context": "From the long elegy Tennyson wrote over seventeen years for his closest friend Arthur Hallam, who died suddenly at twenty-two.",
+      "contextSource": "In Memoriam A.H.H. (1850)"
+    },
+    {
+      "id": "alfred-lord-tennyson-002",
+      "text": "To strive, to seek, to find, and not to yield.",
+      "author": "Alfred, Lord Tennyson",
+      "categories": [
+        "ambition",
+        "courage"
+      ],
+      "context": "The closing line of his dramatic monologue in which the aged Ulysses resolves to set sail one last time.",
+      "contextSource": "'Ulysses' (1842)"
+    },
+    {
+      "id": "elizabeth-barrett-browning-001",
+      "text": "How do I love thee? Let me count the ways. I love thee to the depth and breadth and height my soul can reach.",
+      "author": "Elizabeth Barrett Browning",
+      "categories": [
+        "love"
+      ],
+      "context": "From the sequence of sonnets she wrote privately during her secret courtship with Robert Browning, before their elopement to Italy.",
+      "contextSource": "Sonnets from the Portuguese, Sonnet 43 (1850)"
+    },
+    {
+      "id": "william-blake-001",
+      "text": "To see a World in a Grain of Sand, and a Heaven in a Wild Flower, hold Infinity in the palm of your hand, and Eternity in an hour.",
+      "author": "William Blake",
+      "categories": [
+        "nature",
+        "mindfulness"
+      ],
+      "context": "The opening quatrain of a poem left in manuscript and unpublished until decades after Blake's death.",
+      "contextSource": "'Auguries of Innocence' (c. 1803)"
+    },
+    {
+      "id": "william-blake-002",
+      "text": "No bird soars too high, if he soars with his own wings.",
+      "author": "William Blake",
+      "categories": [
+        "ambition",
+        "courage"
+      ]
+    },
+    {
+      "id": "william-blake-003",
+      "text": "Exuberance is Beauty.",
+      "author": "William Blake",
+      "categories": [
+        "creativity"
+      ]
+    },
+    {
+      "id": "william-blake-004",
+      "text": "He whose face gives no light, shall never become a star.",
+      "author": "William Blake",
+      "categories": [
+        "creativity",
+        "ambition"
+      ]
+    },
+    {
+      "id": "john-keats-001",
+      "text": "A thing of beauty is a joy for ever: its loveliness increases; it will never pass into nothingness.",
+      "author": "John Keats",
+      "categories": [
+        "creativity",
+        "nature"
+      ],
+      "context": "The opening lines of the long poem Keats wrote at twenty-one as a deliberate trial of his own powers.",
+      "contextSource": "Endymion (1818)"
+    },
+    {
+      "id": "john-keats-002",
+      "text": "I am certain of nothing but the holiness of the Heart's affections and the truth of Imagination.",
+      "author": "John Keats",
+      "categories": [
+        "creativity",
+        "love"
+      ],
+      "context": "From one of the letters to friends and family in which Keats worked out his poetics; he died of tuberculosis at twenty-five.",
+      "contextSource": "Letter to Benjamin Bailey (November 22, 1817)"
+    },
+    {
+      "id": "rainer-maria-rilke-001",
+      "text": "Have patience with everything unresolved in your heart and try to love the questions themselves.",
+      "author": "Rainer Maria Rilke",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ],
+      "context": "From the letters Rilke wrote to Franz Kappus, a nineteen-year-old military cadet who had sent him poems and asked whether he should become a poet.",
+      "contextSource": "Letters to a Young Poet, Letter 4 (1903)"
+    },
+    {
+      "id": "rainer-maria-rilke-002",
+      "text": "Perhaps all the dragons of our lives are princesses who are only waiting to see us once beautiful and brave.",
+      "author": "Rainer Maria Rilke",
+      "categories": [
+        "courage"
+      ]
+    },
+    {
+      "id": "rainer-maria-rilke-003",
+      "text": "Let everything happen to you: beauty and terror. Just keep going. No feeling is final.",
+      "author": "Rainer Maria Rilke",
+      "categories": [
+        "courage",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "rainer-maria-rilke-004",
+      "text": "If your daily life seems poor, do not blame it; blame yourself, tell yourself that you are not poet enough to call forth its riches.",
+      "author": "Rainer Maria Rilke",
+      "categories": [
+        "creativity"
+      ]
+    },
+    {
+      "id": "rainer-maria-rilke-005",
+      "text": "For one human being to love another: that is perhaps the most difficult of all our tasks, the work for which all other work is but preparation.",
+      "author": "Rainer Maria Rilke",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "rabindranath-tagore-001",
+      "text": "The butterfly counts not months but moments, and has time enough.",
+      "author": "Rabindranath Tagore",
+      "categories": [
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "rabindranath-tagore-002",
+      "text": "Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.",
+      "author": "Rabindranath Tagore",
+      "categories": [
+        "nature",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "rabindranath-tagore-003",
+      "text": "Let your life lightly dance on the edges of Time like dew on the tip of a leaf.",
+      "author": "Rabindranath Tagore",
+      "categories": [
+        "mindfulness",
+        "nature"
+      ]
+    },
+    {
+      "id": "fyodor-dostoevsky-001",
+      "text": "Beauty will save the world.",
+      "author": "Fyodor Dostoevsky",
+      "categories": [
+        "creativity",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "fyodor-dostoevsky-002",
+      "text": "Man is a mystery. It needs to be unravelled, and if you spend your whole life unravelling it, don't say that you've wasted time. I am studying that mystery because I want to be a human being.",
+      "author": "Fyodor Dostoevsky",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "Written by the seventeen-year-old Dostoevsky to his older brother Mikhail, years before he published anything.",
+      "contextSource": "Letter to Mikhail Dostoevsky (August 16, 1839)"
+    },
+    {
+      "id": "fyodor-dostoevsky-003",
+      "text": "Love in action is a harsh and dreadful thing compared with love in dreams.",
+      "author": "Fyodor Dostoevsky",
+      "categories": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "victor-hugo-001",
+      "text": "The supreme happiness of life is the conviction that we are loved.",
+      "author": "Victor Hugo",
+      "categories": [
+        "love"
+      ]
+    },
+    {
+      "id": "victor-hugo-002",
+      "text": "Laughter is the sun that drives winter from the human face.",
+      "author": "Victor Hugo",
+      "categories": [
+        "wisdom"
+      ]
+    },
+    {
+      "id": "charlotte-bronte-001",
+      "text": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
+      "author": "Charlotte Brontë",
+      "categories": [
+        "courage"
+      ],
+      "context": "Jane's declaration to Rochester; the novel was published under the male pseudonym Currer Bell and shocked Victorian readers with its heroine's independence.",
+      "contextSource": "Jane Eyre, Chapter 23 (1847)"
+    },
+    {
+      "id": "charlotte-bronte-002",
+      "text": "I would always rather be happy than dignified.",
+      "author": "Charlotte Brontë",
+      "categories": [
+        "wisdom",
+        "courage"
+      ]
+    },
+    {
+      "id": "george-eliot-001",
+      "text": "What do we live for, if it is not to make life less difficult to each other?",
+      "author": "George Eliot",
+      "categories": [
+        "love",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "george-eliot-002",
+      "text": "The growing good of the world is partly dependent on unhistoric acts.",
+      "author": "George Eliot",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "From the final paragraph of Middlemarch, on Dorothea Brooke and all those who live faithfully a hidden life and rest in unvisited tombs.",
+      "contextSource": "Middlemarch, Finale (1872)"
+    },
+    {
+      "id": "anne-frank-001",
+      "text": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+      "author": "Anne Frank",
+      "categories": [
+        "ambition",
+        "courage"
+      ],
+      "context": "From a short essay titled 'Give', written while the fourteen-year-old Anne was hiding with her family in the Secret Annex in Amsterdam.",
+      "contextSource": "'Give' (March 26, 1944)"
+    },
+    {
+      "id": "anne-frank-002",
+      "text": "In spite of everything I still believe that people are really good at heart.",
+      "author": "Anne Frank",
+      "categories": [
+        "love",
+        "courage"
+      ],
+      "context": "Written in her diary three weeks before the Secret Annex was raided and its occupants deported; Anne died in Bergen-Belsen the following year.",
+      "contextSource": "The Diary of a Young Girl (July 15, 1944)"
+    },
+    {
+      "id": "booker-t-washington-001",
+      "text": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.",
+      "author": "Booker T. Washington",
+      "categories": [
+        "ambition",
+        "courage"
+      ],
+      "context": "From the autobiography of Washington, who was born into slavery and rose to found the Tuskegee Institute.",
+      "contextSource": "Up from Slavery (1901)"
+    },
+    {
+      "id": "william-wordsworth-001",
+      "text": "Come forth into the light of things, let Nature be your teacher.",
+      "author": "William Wordsworth",
+      "categories": [
+        "nature"
+      ],
+      "context": "From a poem in Lyrical Ballads, the collection with Coleridge that launched English Romanticism.",
+      "contextSource": "'The Tables Turned' (1798)"
+    },
+    {
+      "id": "john-donne-001",
+      "text": "No man is an island, entire of itself; every man is a piece of the continent, a part of the main.",
+      "author": "John Donne",
+      "categories": [
+        "love",
+        "wisdom"
+      ],
+      "context": "Written during a serious illness, in the same meditation that ends 'never send to know for whom the bell tolls; it tolls for thee.'",
+      "contextSource": "Devotions upon Emergent Occasions, Meditation XVII (1624)"
+    },
+    {
+      "id": "winston-churchill-001",
+      "text": "Never give in, never give in, never, never, never, never — in nothing, great or small, large or petty — never give in except to convictions of honour and good sense.",
+      "author": "Winston Churchill",
+      "categories": [
+        "courage"
+      ],
+      "context": "Spoken to the boys of Harrow, his old school, in the autumn of 1941 — Britain had just come through the Blitz, and Churchill pointed to the preceding year as proof that apparent certain defeat can be outlasted.",
+      "contextSource": "Speech at Harrow School (29 October 1941)"
+    },
+    {
+      "id": "winston-churchill-002",
+      "text": "I have nothing to offer but blood, toil, tears and sweat.",
+      "author": "Winston Churchill",
+      "categories": [
+        "courage"
+      ],
+      "context": "His first speech to the House of Commons as Prime Minister, three days after taking office, as German forces swept into France and the Low Countries.",
+      "contextSource": "Speech to the House of Commons (13 May 1940)"
+    },
+    {
+      "id": "winston-churchill-003",
+      "text": "Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.",
+      "author": "Winston Churchill",
+      "categories": [
+        "wisdom",
+        "courage"
+      ],
+      "context": "Delivered at the Lord Mayor's luncheon days after the victory at El Alamein — the first major British land victory of the war — tempering celebration with patience.",
+      "contextSource": "Speech at the Mansion House, London (10 November 1942)"
+    },
+    {
+      "id": "abraham-lincoln-001",
+      "text": "The dogmas of the quiet past are inadequate to the stormy present. The occasion is piled high with difficulty, and we must rise with the occasion. As our case is new, so we must think anew, and act anew.",
+      "author": "Abraham Lincoln",
+      "categories": [
+        "creativity",
+        "courage"
+      ],
+      "context": "From the concluding remarks of his Annual Message to Congress, one month before he signed the Emancipation Proclamation.",
+      "contextSource": "Annual Message to Congress (1 December 1862)"
+    },
+    {
+      "id": "abraham-lincoln-002",
+      "text": "As I would not be a slave, so I would not be a master. This expresses my idea of democracy.",
+      "author": "Abraham Lincoln",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "A private note written on the eve of the Lincoln–Douglas debates — his only known attempt to define democracy, preserved after his death by Mary Lincoln.",
+      "contextSource": "Fragment on Democracy (c. 1 August 1858), Collected Works, Vol. II"
+    },
+    {
+      "id": "abraham-lincoln-003",
+      "text": "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in.",
+      "author": "Abraham Lincoln",
+      "categories": [
+        "love",
+        "wisdom"
+      ],
+      "context": "The closing of his Second Inaugural Address, delivered weeks before the end of the Civil War and his assassination, setting reconciliation over vengeance.",
+      "contextSource": "Second Inaugural Address (4 March 1865)"
+    }
+  ],
+  "authors": {
+    "Marcus Aurelius": {
+      "lifespan": "121–180 AD",
+      "wikipediaTitle": "Marcus_Aurelius"
+    },
+    "Seneca": {
+      "lifespan": "c. 4 BC – 65 AD",
+      "wikipediaTitle": "Seneca_the_Younger"
+    },
+    "Epictetus": {
+      "lifespan": "c. 50–135 AD",
+      "wikipediaTitle": "Epictetus"
+    },
+    "Lao Tzu": {
+      "lifespan": "6th–4th century BC (traditional)",
+      "wikipediaTitle": "Laozi"
+    },
+    "Confucius": {
+      "lifespan": "551–479 BC",
+      "wikipediaTitle": "Confucius"
+    },
+    "The Buddha": {
+      "lifespan": "c. 563–483 BC (traditional)",
+      "wikipediaTitle": "The_Buddha"
+    },
+    "Rumi": {
+      "lifespan": "1207–1273",
+      "wikipediaTitle": "Rumi"
+    },
+    "Henry David Thoreau": {
+      "lifespan": "1817–1862",
+      "wikipediaTitle": "Henry_David_Thoreau"
+    },
+    "Ralph Waldo Emerson": {
+      "lifespan": "1803–1882",
+      "wikipediaTitle": "Ralph_Waldo_Emerson"
+    },
+    "Walt Whitman": {
+      "lifespan": "1819–1892",
+      "wikipediaTitle": "Walt_Whitman"
+    },
+    "Emily Dickinson": {
+      "lifespan": "1830–1886",
+      "wikipediaTitle": "Emily_Dickinson"
+    },
+    "Leo Tolstoy": {
+      "lifespan": "1828–1910",
+      "wikipediaTitle": "Leo_Tolstoy"
+    },
+    "Jane Austen": {
+      "lifespan": "1775–1817",
+      "wikipediaTitle": "Jane_Austen"
+    },
+    "Oscar Wilde": {
+      "lifespan": "1854–1900",
+      "wikipediaTitle": "Oscar_Wilde"
+    },
+    "Friedrich Nietzsche": {
+      "lifespan": "1844–1900",
+      "wikipediaTitle": "Friedrich_Nietzsche"
+    },
+    "Søren Kierkegaard": {
+      "lifespan": "1813–1855",
+      "wikipediaTitle": "Søren_Kierkegaard"
+    },
+    "Michel de Montaigne": {
+      "lifespan": "1533–1592",
+      "wikipediaTitle": "Michel_de_Montaigne"
+    },
+    "Blaise Pascal": {
+      "lifespan": "1623–1662",
+      "wikipediaTitle": "Blaise_Pascal"
+    },
+    "Matsuo Basho": {
+      "lifespan": "1644–1694",
+      "wikipediaTitle": "Matsuo_Bashō"
+    },
+    "Aristotle": {
+      "lifespan": "384–322 BC",
+      "wikipediaTitle": "Aristotle"
+    },
+    "Socrates": {
+      "lifespan": "c. 470–399 BC",
+      "wikipediaTitle": "Socrates"
+    },
+    "Plato": {
+      "lifespan": "c. 428–348 BC",
+      "wikipediaTitle": "Plato"
+    },
+    "Heraclitus": {
+      "lifespan": "c. 535–475 BC",
+      "wikipediaTitle": "Heraclitus"
+    },
+    "Leonardo da Vinci": {
+      "lifespan": "1452–1519",
+      "wikipediaTitle": "Leonardo_da_Vinci"
+    },
+    "Vincent van Gogh": {
+      "lifespan": "1853–1890",
+      "wikipediaTitle": "Vincent_van_Gogh"
+    },
+    "William Shakespeare": {
+      "lifespan": "1564–1616",
+      "wikipediaTitle": "William_Shakespeare"
+    },
+    "Benjamin Franklin": {
+      "lifespan": "1706–1790",
+      "wikipediaTitle": "Benjamin_Franklin"
+    },
+    "Kahlil Gibran": {
+      "lifespan": "1883–1931",
+      "wikipediaTitle": "Kahlil_Gibran"
+    },
+    "Cicero": {
+      "lifespan": "106–43 BC",
+      "wikipediaTitle": "Cicero"
+    },
+    "Epicurus": {
+      "lifespan": "341–270 BC",
+      "wikipediaTitle": "Epicurus"
+    },
+    "Zhuangzi": {
+      "lifespan": "c. 369–286 BC",
+      "wikipediaTitle": "Zhuang_Zhou"
+    },
+    "Sun Tzu": {
+      "lifespan": "c. 544–496 BC (traditional)",
+      "wikipediaTitle": "Sun_Tzu"
+    },
+    "Virgil": {
+      "lifespan": "70–19 BC",
+      "wikipediaTitle": "Virgil"
+    },
+    "Ovid": {
+      "lifespan": "43 BC – 17/18 AD",
+      "wikipediaTitle": "Ovid"
+    },
+    "John Muir": {
+      "lifespan": "1838–1914",
+      "wikipediaTitle": "John_Muir"
+    },
+    "Helen Keller": {
+      "lifespan": "1880–1968",
+      "wikipediaTitle": "Helen_Keller"
+    },
+    "Frederick Douglass": {
+      "lifespan": "c. 1818–1895",
+      "wikipediaTitle": "Frederick_Douglass"
+    },
+    "Theodore Roosevelt": {
+      "lifespan": "1858–1919",
+      "wikipediaTitle": "Theodore_Roosevelt"
+    },
+    "Amelia Earhart": {
+      "lifespan": "1897–1937",
+      "wikipediaTitle": "Amelia_Earhart"
+    },
+    "Johann Wolfgang von Goethe": {
+      "lifespan": "1749–1832",
+      "wikipediaTitle": "Johann_Wolfgang_von_Goethe"
+    },
+    "Alfred, Lord Tennyson": {
+      "lifespan": "1809–1892",
+      "wikipediaTitle": "Alfred,_Lord_Tennyson"
+    },
+    "Elizabeth Barrett Browning": {
+      "lifespan": "1806–1861",
+      "wikipediaTitle": "Elizabeth_Barrett_Browning"
+    },
+    "William Blake": {
+      "lifespan": "1757–1827",
+      "wikipediaTitle": "William_Blake"
+    },
+    "John Keats": {
+      "lifespan": "1795–1821",
+      "wikipediaTitle": "John_Keats"
+    },
+    "Rainer Maria Rilke": {
+      "lifespan": "1875–1926",
+      "wikipediaTitle": "Rainer_Maria_Rilke"
+    },
+    "Rabindranath Tagore": {
+      "lifespan": "1861–1941",
+      "wikipediaTitle": "Rabindranath_Tagore"
+    },
+    "Fyodor Dostoevsky": {
+      "lifespan": "1821–1881",
+      "wikipediaTitle": "Fyodor_Dostoevsky"
+    },
+    "Victor Hugo": {
+      "lifespan": "1802–1885",
+      "wikipediaTitle": "Victor_Hugo"
+    },
+    "Charlotte Brontë": {
+      "lifespan": "1816–1855",
+      "wikipediaTitle": "Charlotte_Brontë"
+    },
+    "George Eliot": {
+      "lifespan": "1819–1880",
+      "wikipediaTitle": "George_Eliot"
+    },
+    "Anne Frank": {
+      "lifespan": "1929–1945",
+      "wikipediaTitle": "Anne_Frank"
+    },
+    "Booker T. Washington": {
+      "lifespan": "1856–1915",
+      "wikipediaTitle": "Booker_T._Washington"
+    },
+    "William Wordsworth": {
+      "lifespan": "1770–1850",
+      "wikipediaTitle": "William_Wordsworth"
+    },
+    "John Donne": {
+      "lifespan": "1572–1631",
+      "wikipediaTitle": "John_Donne"
+    },
+    "Winston Churchill": {
+      "lifespan": "1874–1965",
+      "wikipediaTitle": "Winston_Churchill"
+    },
+    "Abraham Lincoln": {
+      "lifespan": "1809–1865",
+      "wikipediaTitle": "Abraham_Lincoln"
+    }
+  }
+}
