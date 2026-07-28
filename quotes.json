@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "quotes": [
     {
       "id": "marcus-aurelius-001",
@@ -2791,6 +2791,137 @@
       ],
       "context": "Written by Einstein at twenty-two — a recent graduate struggling to find academic work — to the father of his closest friend, years before fame or the patent office.",
       "contextSource": "Letter to Jost Winteler (8 July 1901)"
+    },
+    {
+      "id": "abraham-lincoln-004",
+      "text": "Leave nothing for to-morrow which can be done to-day.",
+      "author": "Abraham Lincoln",
+      "categories": [
+        "ambition",
+        "wisdom"
+      ],
+      "context": "Jotted among maxims of advice for aspiring lawyers during the twenty-odd years Lincoln rode the Illinois legal circuit, long before he reached the presidency.",
+      "contextSource": "Fragment: Notes for a Law Lecture (July 1, 1850)"
+    },
+    {
+      "id": "abraham-lincoln-005",
+      "text": "Determine that the thing can and shall be done, and then we shall find the way.",
+      "author": "Abraham Lincoln",
+      "categories": [
+        "ambition",
+        "courage"
+      ],
+      "context": "Spoken during his single term as a congressman, arguing that the difficulties of building national infrastructure could be overcome by sheer resolve.",
+      "contextSource": "Speech in the U.S. House of Representatives (June 20, 1848)"
+    },
+    {
+      "id": "abraham-lincoln-006",
+      "text": "No man is good enough to govern another man, without that other's consent.",
+      "author": "Abraham Lincoln",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "From the Peoria speech, Lincoln's forceful return to politics to oppose slavery's westward spread; he called consent the sheet-anchor of American republicanism.",
+      "contextSource": "Speech at Peoria, Illinois (October 16, 1854)"
+    },
+    {
+      "id": "michael-jordan-001",
+      "text": "I've failed over and over and over again in my life. And that is why I succeed.",
+      "author": "Michael Jordan",
+      "categories": [
+        "courage",
+        "ambition"
+      ],
+      "context": "The words Jordan spoke in Nike's celebrated 'Failure' commercial, tallying the missed shots and lost games behind the most decorated career in basketball.",
+      "contextSource": "Nike Culture: The Sign of the Swoosh (1998), by Robert Goldman and Stephen Papson, p. 49"
+    },
+    {
+      "id": "michael-jordan-002",
+      "text": "I can accept failure. Everyone fails at something. But I can't accept not trying.",
+      "author": "Michael Jordan",
+      "categories": [
+        "ambition",
+        "courage"
+      ],
+      "context": "Published in 1994, the year Jordan stunned the sport by first retiring from the Bulls to try minor-league baseball, reflecting on his lifelong refusal to fear losing.",
+      "contextSource": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994), p. 129"
+    },
+    {
+      "id": "michael-jordan-003",
+      "text": "Talent wins games, but teamwork and intelligence wins championships.",
+      "author": "Michael Jordan",
+      "categories": [
+        "ambition",
+        "wisdom"
+      ],
+      "context": "From the same 1994 book, distilling the lesson of his six titles: individual brilliance is never enough without a team that thinks and plays as one.",
+      "contextSource": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994), p. 129"
+    },
+    {
+      "id": "vincent-van-gogh-007",
+      "text": "I am good for something! My existence is not without reason!",
+      "author": "Vincent van Gogh",
+      "categories": [
+        "courage",
+        "ambition"
+      ],
+      "context": "Written from the Borinage coal-mining district in July 1880, as the 27-year-old van Gogh, adrift after failing as a lay preacher, first resolved to become a painter.",
+      "contextSource": "Letter to Theo van Gogh (Cuesmes, July 1880)"
+    },
+    {
+      "id": "vincent-van-gogh-008",
+      "text": "In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.",
+      "author": "Vincent van Gogh",
+      "categories": [
+        "courage",
+        "creativity"
+      ],
+      "context": "From a letter to his brother Theo written weeks after he committed to art; poor, self-taught, and often despairing, van Gogh vowed to keep drawing no matter what.",
+      "contextSource": "Letter to Theo van Gogh, no. 158 (September 24, 1880)"
+    },
+    {
+      "id": "vincent-van-gogh-009",
+      "text": "Conscience is a man's compass, and though the needle sometimes deviates, though one often perceives irregularities in directing one's course by it, still one must try to follow its direction.",
+      "author": "Vincent van Gogh",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ],
+      "context": "Written from The Hague in 1882 while van Gogh taught himself to paint in poverty, living by his conscience even when it cost him family, church, and respectability.",
+      "contextSource": "Letter to Theo van Gogh (The Hague, December 1882)"
+    },
+    {
+      "id": "marie-curie-001",
+      "text": "One never notices what has been done; one can only see what remains to be done.",
+      "author": "Marie Curie",
+      "categories": [
+        "ambition",
+        "wisdom"
+      ],
+      "context": "Written in 1894 to her brother Józef, when Curie was a penniless Polish student in Paris, a year before she married Pierre and began the work that won two Nobel Prizes.",
+      "contextSource": "Letter to her brother (1894)"
+    },
+    {
+      "id": "marie-curie-002",
+      "text": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.",
+      "author": "Marie Curie",
+      "categories": [
+        "courage",
+        "ambition"
+      ],
+      "context": "A creed recalled by her daughter Ève in a 1937 biography; Curie endured poverty, sexism, and widowhood to become the first person to win Nobel Prizes in two sciences.",
+      "contextSource": "Madame Curie: A Biography (1937) by Eve Curie Labouisse, Part 2, p. 116"
+    },
+    {
+      "id": "marie-curie-003",
+      "text": "All my life through, the new sights of Nature made me rejoice like a child.",
+      "author": "Marie Curie",
+      "categories": [
+        "nature",
+        "mindfulness"
+      ],
+      "context": "From the memoir of her late husband Pierre that Curie wrote in 1923; despite a life bent over laboratory benches, she never lost a childlike delight in the natural world.",
+      "contextSource": "Pierre Curie (1923), translated by Charlotte and Vernon Kellogg, p. 162"
     }
   ],
   "authors": {
@@ -3029,6 +3160,14 @@
     "Albert Einstein": {
       "lifespan": "1879–1955",
       "wikipediaTitle": "Albert_Einstein"
+    },
+    "Michael Jordan": {
+      "lifespan": "1963–present",
+      "wikipediaTitle": "Michael_Jordan"
+    },
+    "Marie Curie": {
+      "lifespan": "1867–1934",
+      "wikipediaTitle": "Marie_Curie"
     }
   }
 }
