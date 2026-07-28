@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "quotes": [
     {
       "id": "marcus-aurelius-001",
@@ -2687,6 +2687,110 @@
       ],
       "context": "The closing of his Second Inaugural Address, delivered weeks before the end of the Civil War and his assassination, setting reconciliation over vengeance.",
       "contextSource": "Second Inaugural Address (4 March 1865)"
+    },
+    {
+      "id": "winston-churchill-004",
+      "text": "Nothing in life is so exhilarating as to be shot at without result.",
+      "author": "Winston Churchill",
+      "categories": [
+        "courage"
+      ],
+      "context": "Written by Churchill at twenty-three — then a cavalry officer and war correspondent — recalling the thrill of coming under fire on India's North-West Frontier, in his very first book.",
+      "contextSource": "The Story of the Malakand Field Force, Ch. X (1898)"
+    },
+    {
+      "id": "winston-churchill-005",
+      "text": "I pass with relief from the tossing sea of Cause and Theory to the firm ground of Result and Fact.",
+      "author": "Winston Churchill",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "An aside in that same debut book by the young Churchill, already showing the preference for hard fact over grand theory that would mark his later statesmanship.",
+      "contextSource": "The Story of the Malakand Field Force, Ch. III (1898)"
+    },
+    {
+      "id": "muhammad-ali-001",
+      "text": "The man who views the world at 50 the same as he did at 20 has wasted 30 years of his life.",
+      "author": "Muhammad Ali",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "Ali — by then a global figure who had sacrificed his heavyweight title rather than be drafted for Vietnam — on why a person must keep growing and changing their mind.",
+      "contextSource": "Playboy interview (November 1975)"
+    },
+    {
+      "id": "muhammad-ali-002",
+      "text": "I never thought of losing, but now that it's happened, the only thing is to do it right.",
+      "author": "Muhammad Ali",
+      "categories": [
+        "courage"
+      ],
+      "context": "Spoken after the first defeat of his career — Ken Norton broke his jaw in a bout Ali had been a 5-to-1 favorite to win — as he resolved to meet the loss with grace.",
+      "contextSource": "Statement after the Ken Norton fight (31 March 1973)"
+    },
+    {
+      "id": "muhammad-ali-003",
+      "text": "Spirituality is recognizing the divine light that is within us all. It doesn't belong to any particular religion; it belongs to everyone.",
+      "author": "Muhammad Ali",
+      "categories": [
+        "mindfulness"
+      ],
+      "context": "Written near the end of his life in his memoir, as Parkinson's had quieted the once-brash champion into a reflective man of faith.",
+      "contextSource": "The Soul of a Butterfly (2004)"
+    },
+    {
+      "id": "pablo-picasso-001",
+      "text": "Art is a lie that makes us realize truth, at least the truth that is given us to understand.",
+      "author": "Pablo Picasso",
+      "categories": [
+        "creativity"
+      ],
+      "context": "From Picasso's first major public statement on his own work, given to the critic Marius de Zayas while Cubism was still bewildering the art world.",
+      "contextSource": "\"Picasso Speaks,\" The Arts (May 1923)"
+    },
+    {
+      "id": "pablo-picasso-002",
+      "text": "Art is not made to decorate rooms. It is an offensive weapon in the defence against the enemy.",
+      "author": "Pablo Picasso",
+      "categories": [
+        "creativity",
+        "courage"
+      ],
+      "context": "Picasso on the purpose of art, given during the German occupation of Paris, where he lived under Nazi watch and refused either to leave or to collaborate.",
+      "contextSource": "Les lettres françaises (24 March 1943)"
+    },
+    {
+      "id": "pablo-picasso-003",
+      "text": "When I was a child my mother said to me, 'If you are a soldier, you will become a general. If you are a monk, you will become the Pope.' Instead, I was a painter, and became Picasso.",
+      "author": "Pablo Picasso",
+      "categories": [
+        "ambition",
+        "creativity"
+      ],
+      "context": "Recounted late in life to his companion Françoise Gilot — his mother's boundless expectations, and the singular name he made instead.",
+      "contextSource": "Life with Picasso, by Françoise Gilot (1964)"
+    },
+    {
+      "id": "albert-einstein-001",
+      "text": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+      "author": "Albert Einstein",
+      "categories": [
+        "wisdom",
+        "courage"
+      ],
+      "context": "Advice Einstein wrote to his teenage son Eduard; within a few years Eduard would be hospitalized with schizophrenia, and the two would rarely meet again.",
+      "contextSource": "Letter to Eduard Einstein (5 February 1930)"
+    },
+    {
+      "id": "albert-einstein-002",
+      "text": "Blind obedience to authority is the greatest enemy of truth.",
+      "author": "Albert Einstein",
+      "categories": [
+        "wisdom",
+        "courage"
+      ],
+      "context": "Written by Einstein at twenty-two — a recent graduate struggling to find academic work — to the father of his closest friend, years before fame or the patent office.",
+      "contextSource": "Letter to Jost Winteler (8 July 1901)"
     }
   ],
   "authors": {
@@ -2913,6 +3017,18 @@
     "Abraham Lincoln": {
       "lifespan": "1809–1865",
       "wikipediaTitle": "Abraham_Lincoln"
+    },
+    "Muhammad Ali": {
+      "lifespan": "1942–2016",
+      "wikipediaTitle": "Muhammad_Ali"
+    },
+    "Pablo Picasso": {
+      "lifespan": "1881–1973",
+      "wikipediaTitle": "Pablo_Picasso"
+    },
+    "Albert Einstein": {
+      "lifespan": "1879–1955",
+      "wikipediaTitle": "Albert_Einstein"
     }
   }
 }
