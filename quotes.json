@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "quotes": [
     {
       "id": "marcus-aurelius-001",
@@ -3019,6 +3019,111 @@
       ],
       "context": "Describing how a working scientist senses a correct guess before checking every consequence, Feynman held that a true law announces itself through its elegance, coming out simpler than expected.",
       "contextSource": "The Character of Physical Law (1965), ch. 7, p. 171"
+    },
+    {
+      "id": "theodore-roosevelt-003",
+      "text": "Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy much nor suffer much, because they live in that grey twilight that knows neither victory nor defeat.",
+      "author": "Theodore Roosevelt",
+      "categories": [
+        "courage",
+        "ambition"
+      ],
+      "context": "A war hero turned reformer, Roosevelt pressed this creed on young men of privilege in Chicago, a year before the presidency, urging strenuous risk over comfortable mediocrity.",
+      "contextSource": "The Strenuous Life, speech before the Hamilton Club, Chicago (10 April 1899)"
+    },
+    {
+      "id": "theodore-roosevelt-004",
+      "text": "We cannot avoid meeting great issues. All that we can determine for ourselves is whether we shall meet them well or ill.",
+      "author": "Theodore Roosevelt",
+      "categories": [
+        "courage",
+        "wisdom"
+      ],
+      "context": "In the same Chicago address that made 'the strenuous life' his byword, Roosevelt framed hardship not as a choice but as a test of character a rising nation could not dodge.",
+      "contextSource": "The Strenuous Life, speech before the Hamilton Club, Chicago (10 April 1899)"
+    },
+    {
+      "id": "theodore-roosevelt-005",
+      "text": "Success comes only to those who lead the life of endeavor.",
+      "author": "Theodore Roosevelt",
+      "categories": [
+        "ambition"
+      ],
+      "context": "Addressing the sons of pioneers at a Minnesota fair months before he became president, Roosevelt distilled his gospel of effort into a single line about earned reward.",
+      "contextSource": "National Duties, address at the Minnesota State Fair, St. Paul (2 September 1901)"
+    },
+    {
+      "id": "vince-lombardi-001",
+      "text": "Gentlemen, we are going to relentlessly chase perfection, knowing full well we will not catch it, because nothing is perfect. But we are going to relentlessly chase it, because in the process we will catch excellence. I am not remotely interested in just being good.",
+      "author": "Vince Lombardi",
+      "categories": [
+        "ambition"
+      ],
+      "context": "Lombardi opened his tenure with a losing Green Bay Packers squad he would forge into a dynasty, laying out in his first team meeting the pursuit-of-excellence standard that defined him.",
+      "contextSource": "First team meeting as Packers coach (1959), reported in Chuck Carlson, Game of My Life: 25 Stories of Packers Football (2004), p. 149"
+    },
+    {
+      "id": "leonardo-da-vinci-004",
+      "text": "Wisdom is the daughter of experience.",
+      "author": "Leonardo da Vinci",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "The ultimate self-taught observer, Leonardo trusted the evidence of his own eyes over inherited authority, a conviction recorded among the philosophical maxims in his notebooks.",
+      "contextSource": "The Notebooks of Leonardo da Vinci (1883), XIX Philosophical Maxims"
+    },
+    {
+      "id": "leonardo-da-vinci-005",
+      "text": "Learning acquired in youth arrests the evil of old age.",
+      "author": "Leonardo da Vinci",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "Leonardo, who filled thousands of notebook pages across a lifetime of study, held that knowledge gathered early becomes the nourishment that sustains the mind into old age.",
+      "contextSource": "The Notebooks of Leonardo da Vinci (1883), XIX Philosophical Maxims"
+    },
+    {
+      "id": "leonardo-da-vinci-006",
+      "text": "The knowledge of past times and of the places on the earth is both an ornament and nutriment to the human mind.",
+      "author": "Leonardo da Vinci",
+      "categories": [
+        "wisdom"
+      ],
+      "context": "Painter, engineer and anatomist alike, Leonardo prized history and geography as both adornment and sustenance for the intellect, noting as much among his philosophical maxims.",
+      "contextSource": "The Notebooks of Leonardo da Vinci (1883), XIX Philosophical Maxims"
+    },
+    {
+      "id": "carl-sagan-001",
+      "text": "For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.",
+      "author": "Carl Sagan",
+      "categories": [
+        "wisdom",
+        "mindfulness"
+      ],
+      "context": "Writing near the end of his life as a champion of scientific skepticism, Sagan argued that unflinching truth is worth more than any comforting illusion it might replace.",
+      "contextSource": "The Demon-Haunted World: Science as a Candle in the Dark (1995), Ch. 1"
+    },
+    {
+      "id": "carl-sagan-002",
+      "text": "It does no harm to the romance of the sunset to know a little bit about it.",
+      "author": "Carl Sagan",
+      "categories": [
+        "nature",
+        "wisdom"
+      ],
+      "context": "Astronomer and Cosmos narrator, Sagan rejected the notion that science drains the world of wonder, insisting that understanding only deepens the beauty of a sunset.",
+      "contextSource": "Pale Blue Dot: A Vision of the Human Future in Space (1994), p. 159"
+    },
+    {
+      "id": "carl-sagan-003",
+      "text": "The prediction I can make with the highest confidence is that the most amazing discoveries will be the ones we are not today wise enough to foresee.",
+      "author": "Carl Sagan",
+      "categories": [
+        "creativity",
+        "wisdom"
+      ],
+      "context": "A lifelong evangelist for the search beyond the known, Sagan held that the universe's greatest revelations lie precisely where present imagination cannot yet reach.",
+      "contextSource": "Cited in Tim Flannery, Atmosphere of Hope: Solutions to the Climate Crisis (Penguin Books, 2015), p. 162"
     }
   ],
   "authors": {
@@ -3277,6 +3382,14 @@
     "Richard Feynman": {
       "lifespan": "1918–1988",
       "wikipediaTitle": "Richard Feynman"
+    },
+    "Vince Lombardi": {
+      "lifespan": "1913–1970",
+      "wikipediaTitle": "Vince_Lombardi"
+    },
+    "Carl Sagan": {
+      "lifespan": "1934–1996",
+      "wikipediaTitle": "Carl_Sagan"
     }
   }
 }
