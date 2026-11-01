@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "quotes": [
     {
       "id": "marcus-aurelius-001",
@@ -2922,6 +2922,103 @@
       ],
       "context": "From the memoir of her late husband Pierre that Curie wrote in 1923; despite a life bent over laboratory benches, she never lost a childlike delight in the natural world.",
       "contextSource": "Pierre Curie (1923), translated by Charlotte and Vernon Kellogg, p. 162"
+    },
+    {
+      "id": "nelson-mandela-001",
+      "text": "I have cherished the ideal of a democratic and free society in which all persons will live together in harmony and with equal opportunities. It is an ideal which I hope to live for. But, my lord, if needs be, it is an ideal for which I am prepared to die.",
+      "author": "Nelson Mandela",
+      "categories": [
+        "courage",
+        "wisdom"
+      ],
+      "context": "Facing a possible death sentence for sabotage, Mandela closed his four-hour statement from the dock at the 1964 Rivonia Trial with these words, then spent 27 years in prison before becoming South Africa's first Black president.",
+      "contextSource": "Statement from the dock, Rivonia Trial, Pretoria Supreme Court (20 April 1964)"
+    },
+    {
+      "id": "nelson-mandela-002",
+      "text": "Difficulties break some men but make others. No axe is sharp enough to cut the soul of a sinner who keeps on trying, one armed with the hope that he will rise even in the end.",
+      "author": "Nelson Mandela",
+      "categories": [
+        "courage",
+        "stoicism"
+      ],
+      "context": "Writing from his cell on Robben Island to his wife Winnie in 1975, a decade into imprisonment, Mandela framed adversity itself as the forge of character rather than its ruin.",
+      "contextSource": "Letter to Winnie Mandela, Robben Island (1 February 1975), in From Nelson Mandela By Himself: The Authorised Book of Quotations (2010)"
+    },
+    {
+      "id": "nelson-mandela-003",
+      "text": "Only free men can negotiate; prisoners cannot enter into contracts. Your freedom and mine cannot be separated.",
+      "author": "Nelson Mandela",
+      "categories": [
+        "courage",
+        "wisdom"
+      ],
+      "context": "After 21 years behind bars, Mandela rejected a conditional release offered by the apartheid government, refusing to bargain for his own liberty while his people remained unfree.",
+      "contextSource": "As quoted in TIME (25 February 1985)"
+    },
+    {
+      "id": "georgia-okeeffe-001",
+      "text": "I hate flowers — I paint them because they're cheaper than models and they don't move!",
+      "author": "Georgia O'Keeffe",
+      "categories": [
+        "creativity"
+      ],
+      "context": "O'Keeffe, whose monumental close-up flower canvases became icons of American modernism, dismissed the romantic readings of her work with this characteristically dry, unsentimental remark.",
+      "contextSource": "Quoted in Portrait of an Artist: A Biography of Georgia O'Keeffe, Laurie Lisle (Viking Press, New York, 1981), p. 180"
+    },
+    {
+      "id": "georgia-okeeffe-002",
+      "text": "Singing has always seemed to me the most perfect means of expression. Since I cannot sing, I paint.",
+      "author": "Georgia O'Keeffe",
+      "categories": [
+        "creativity"
+      ],
+      "context": "By 1947, widowed from the photographer Alfred Stieglitz and settled in New Mexico, O'Keeffe cast painting as the voice she lacked — a substitute for the song she could not give.",
+      "contextSource": "\"Austere Stripper\", Time (27 May 1947), p. 74"
+    },
+    {
+      "id": "georgia-okeeffe-003",
+      "text": "The meaning of a word — to me — is not as exact as the meaning of a colour. Colours and shapes make a more definite statement than words.",
+      "author": "Georgia O'Keeffe",
+      "categories": [
+        "creativity",
+        "mindfulness"
+      ],
+      "context": "Late in life, weary of how often critics had put words in her mouth, O'Keeffe insisted in a book on her own drawings that color and form said what language never could.",
+      "contextSource": "Some Memories of Drawings (University of New Mexico Press / Viking Press, New York, 1976), Foreword"
+    },
+    {
+      "id": "richard-feynman-001",
+      "text": "I think I can safely say that nobody understands quantum mechanics.",
+      "author": "Richard Feynman",
+      "categories": [
+        "wisdom",
+        "nature"
+      ],
+      "context": "Feynman, a Nobel laureate who helped build the theory of quantum electrodynamics, admitted in his Cornell lectures that even its masters cannot truly picture the strange reality it describes.",
+      "contextSource": "The Character of Physical Law (1965), ch. 6, p. 129"
+    },
+    {
+      "id": "richard-feynman-002",
+      "text": "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry.",
+      "author": "Richard Feynman",
+      "categories": [
+        "nature",
+        "wisdom"
+      ],
+      "context": "In his 1964 Cornell lectures on gravitation, Feynman captured why physics is possible at all: nature's deepest laws run through every scale, so a fragment betrays the whole design.",
+      "contextSource": "The Character of Physical Law (1965), ch. 1, p. 34"
+    },
+    {
+      "id": "richard-feynman-003",
+      "text": "You can recognize truth by its beauty and simplicity.",
+      "author": "Richard Feynman",
+      "categories": [
+        "wisdom",
+        "creativity"
+      ],
+      "context": "Describing how a working scientist senses a correct guess before checking every consequence, Feynman held that a true law announces itself through its elegance, coming out simpler than expected.",
+      "contextSource": "The Character of Physical Law (1965), ch. 7, p. 171"
     }
   ],
   "authors": {
@@ -3168,6 +3265,18 @@
     "Marie Curie": {
       "lifespan": "1867–1934",
       "wikipediaTitle": "Marie_Curie"
+    },
+    "Nelson Mandela": {
+      "lifespan": "1918–2013",
+      "wikipediaTitle": "Nelson Mandela"
+    },
+    "Georgia O'Keeffe": {
+      "lifespan": "1887–1986",
+      "wikipediaTitle": "Georgia O'Keeffe"
+    },
+    "Richard Feynman": {
+      "lifespan": "1918–1988",
+      "wikipediaTitle": "Richard Feynman"
     }
   }
 }
